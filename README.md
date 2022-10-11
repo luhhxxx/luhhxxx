@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luhhxxx
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on deep learning
 - 📫 How to reach me 983163476@qq.com
 
 <!---
